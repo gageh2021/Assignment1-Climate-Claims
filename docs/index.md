@@ -58,7 +58,13 @@ After reading a variety of articles with claims about climate change, I noticed 
 
 ### Image Citations
 
-Gillis, J., 2015. Verbal Warming: Labels in the Climate Debate. The New York Times. [online] 12 Feb. Available at: <https://www.nytimes.com/2015/02/17/science/earth/in-climate-change-whats-in-a-name.html> [Accessed 24 Oct. 2021].<br/><br/>
-Masson-Delmotte, V., Zhai, P., Pirani, A. and Connors, S.L., 2021. Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge University Press: IPCC.
+Figure Number | Citation
+------------ | -------------
+1 | Gillis, J., 2015. Verbal Warming: Labels in the Climate Debate. The New York Times. [online] 12 Feb. Available at: <https://www.nytimes.com/2015/02/17/science/earth/in-climate-change-whats-in-a-name.html> [Accessed 24 Oct. 2021].
+2 | Masson-Delmotte, V., Zhai, P., Pirani, A. and Connors, S.L., 2021. Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge University Press: IPCC.
+
+
+##### Bonus: Try adding this markdown code to create the emoji I have added at the top!
+```:disguised_face:```
 
 
