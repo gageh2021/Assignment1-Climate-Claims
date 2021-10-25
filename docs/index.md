@@ -1,5 +1,5 @@
 ---
-title: Assignment 1: Climate Cl
+title: Assignment 1: Climate Claims
 layout: default
 nav_order: 1
 ---
